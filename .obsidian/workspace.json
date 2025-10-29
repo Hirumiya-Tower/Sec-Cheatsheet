@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/SMB.md",
+                "file": "Tools/Nmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "Nmap"
             }
           }
         ],
@@ -62,10 +62,14 @@
             "id": "b4be04bb31631b02",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Protocols/SMB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB"
             }
           }
         ]
@@ -216,14 +220,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b4be04bb31631b02",
+  "active": "26dea2cc8d364619",
   "lastOpenFiles": [
     "Protocols/SMB.md",
-    "CVE-2017-0144.md",
+    "Tools/Nmap.md",
     "Protocols/FTP.md",
+    "CVE-2017-0144.md",
     "Services/Redis.md",
     "Services",
-    "Tools/Nmap.md",
     "Welcome.md",
     "Tools",
     "Protocols"
